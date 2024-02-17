@@ -1,6 +1,6 @@
 # Savio-Feng-Javascript-Notes
 You can find in this repository, all my notes about Javascript.
-#Introduction of Javascript
+# Introduction of Javascript
 JavaScript, often abbreviated as JS, is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It is a scripting or programming language that allows you to implement complex features on web pages.
 
 Here are some key points about JavaScript:
