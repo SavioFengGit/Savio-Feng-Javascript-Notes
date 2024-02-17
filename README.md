@@ -21,5 +21,10 @@ HTML, CSS and JavaScript are the three main languages of web development. They w
 <img src="site.png" width=50% height="auto"><br>
 
 
+## Advice:
+ - Use Live server extension on Visual studio.
+ - Use inspect and console.
+ - Care HTML order. 
+
 ### Author
 Xiao Li Savio Feng
